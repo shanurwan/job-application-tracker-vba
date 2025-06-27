@@ -66,6 +66,7 @@ A dynamic dashboard that automatically visualizes:
 - Encourages resilience, consistency, and momentum
 
 ❤️ Because job hunting is as emotional as it is strategic.
+
 ---
 
 ## 📊 Benefits
@@ -114,7 +115,7 @@ A dynamic dashboard that automatically visualizes:
 ## 📎 Demo & Download
 
 View the functional demo or download the project file:  
-🔗 []
+🔗 [https://github.com/shanurwan/job-application-tracker-vba/blob/main/job_applications.xlsm]
 
 ---
 
