@@ -8,6 +8,20 @@ It’s more than a tracker : it’s a career management companion designed to re
 
 ---
 
+## 🛠️ Actively Improving
+While this project is fully functional and ready to use, it's also a living system : actively evolving as I continue to sharpen my analytics, automation, and user-focused design skills.
+
+### 🔧 In Progress:
+Funnel-style visualizations to help identify where opportunities are leaking 
+
+Strategic metrics that don’t just track progress, but help guide better decision-making in job search tactics (currently looking for beta tester to gain insight into the pain point and root cause)
+
+Expanded emotional support logic based on engagement patterns and motivation signals
+
+This tracker isn’t just about automation : it’s about building a system that’s aware, supportive, and deeply practical for anyone navigating a tough market.
+
+---
+
 ## 🔧 Key Features
 
 ### 📈 1. Live-Updating Dashboard
