@@ -4,7 +4,7 @@
 
 In today’s competitive job market, being organized and proactive isn't optional, it’s essential. This project is a smart, fully-automated job application tracker built entirely in Microsoft Excel using VBA, with no subscriptions, no third-party dependencies, and 100% offline.
 
-It’s more than a tracker : it’s a career management companion designed to reduce job search fatigue, surface strategic insights, and support you emotionally through the ups and downs of job hunting.
+It’s more than a tracker : it’s a career management companion designed to reduce job search fatigue, surface strategic insights, and provide support emotionally through the ups and downs of job hunting.
 
 ---
 
