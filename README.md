@@ -2,9 +2,9 @@
 
 ## 🧩 Project Overview
 
-In today’s competitive job market, staying organized and proactive isn’t optional but it’s essential. This project is a fully automated job application tracking system built entirely in **Microsoft Excel with VBA**, designed to streamline job tracking, automate follow-ups, and reveal data-driven insights without subscriptions or third-party tools.
+In today’s competitive job market, being organized and proactive isn't optional, it’s essential. This project is a smart, fully-automated job application tracker built entirely in Microsoft Excel using VBA, with no subscriptions, no third-party dependencies, and 100% offline.
 
-This tool empowers job seekers to treat their job search like a project: structured, measurable, and focused.
+It’s more than a tracker : it’s a career management companion designed to reduce job search fatigue, surface strategic insights, and support you emotionally through the ups and downs of job hunting.
 
 ---
 
