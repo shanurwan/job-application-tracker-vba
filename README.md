@@ -20,6 +20,8 @@ A score based predictor to reorder application based on past success rate,help f
 
 Expanded emotional support logic based on engagement patterns and motivation signals
 
+Slicer button that does not just change the data but also the title of each visualization to guide user on what to look for in each specific area
+
 This tracker isn’t just about automation : it’s about building a system that’s aware, supportive, and deeply practical for anyone navigating a tough market.
 
 ---
