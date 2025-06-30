@@ -14,7 +14,9 @@ While this project is fully functional and ready to use, it's also a living syst
 ### 🔧 In Progress:
 Funnel-style visualizations to help identify where opportunities are leaking 
 
-Strategic metrics that don’t just track progress, but help guide better decision-making in job search tactics (currently looking for beta tester to gain insight into the pain point and root cause)
+Strategic metrics that don’t just track progress, but help guide better decision-making in job search tactics 
+
+A mini machine learning predictor to reorder application based on past success rate,help focus and what really matter(currently looking for beta tester to gain insight into the pain point and of course collect data!)
 
 Expanded emotional support logic based on engagement patterns and motivation signals
 
