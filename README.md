@@ -16,7 +16,7 @@ Funnel-style visualizations to help identify where opportunities are leaking
 
 Strategic metrics that don’t just track progress, but help guide better decision-making in job search tactics 
 
-A score based predictor to reorder application based on past success rate,help focus and what really matter(currently looking for beta tester to gain insight into the pain point and of course collect data!)
+A score based predictor to reorder application based on past success rate,help focus on what really matter(This feature is currently under experiment, im still gathering data to study the most important feature as predictor)
 
 Expanded emotional support logic based on engagement patterns and motivation signals
 
